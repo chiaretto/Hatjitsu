@@ -1,4 +1,3 @@
-[![Runme](https://runme.io/static/button.svg)](https://runme.io/run?app_id=f66702f3-186d-42b1-93ff-61dde9fa0f98)
 
 #Hatjitsu
 
